@@ -1,0 +1,10 @@
+total 0
+drwxr-xr-x 1 노성래 197121 0 Sep 28 22:45 aa/
+drwxr-xr-x 1 노성래 197121 0 Sep 28 22:39 aaa/
+-rw-r--r-- 1 노성래 197121 0 Oct  5 19:57 list.txt
+oss/
+-rw-r--r-- 1 노성래 197121 0 Oct  5 19:57 list.txt
+drwxr-xr-x 1 노성래 197121 0 Sep 28 22:39 aaa/
+drwxr-xr-x 1 노성래 197121 0 Sep 28 22:45 aa/
+oss/
+total 0
