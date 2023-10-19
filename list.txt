@@ -8,3 +8,4 @@ drwxr-xr-x 1 노성래 197121 0 Sep 28 22:39 aaa/
 drwxr-xr-x 1 노성래 197121 0 Sep 28 22:45 aa/
 oss/
 total 0
+lkja
